@@ -1,0 +1,120 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Montez', cursive;
+  color: #54b198;
+}
+
+h2 {
+font-family: Raleway;
+color: #54b198;
+font-size: 25px;
+text-decoration: underline;
+}
+h3 {
+  font-family: Raleway;
+  color: #c20f4d;
+
+}
+hr {
+  width: 7%;
+  border:none;
+  border-top :10px dotted grey;
+  margin-top: 30px ;
+  margin-bottom: 30px ;
+}
+
+.top-container {
+  background: #c7004c;
+  position: relative;
+  padding-top: 100px;
+}
+.top-container p {
+  color: #fff;
+  font-size: 20px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile img {
+  border-radius: 50%;
+  height: 170px;
+  margin-top: 30px;
+}
+.profile p {
+  width: 40%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.skill-row .first {
+  height: 170px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row .second {
+  height: 170px;
+  float: right;
+  margin-left: 30px;
+}
+.main-heading {
+  font-size:70px;
+  color: #fff;
+}
+.skill-row {
+  width: 50%;
+  margin: 60px auto;
+  text-align: left;
+
+}
+.skill-row p {
+  line-height: 2;
+
+}
+.contact-me {
+  padding: 30px;
+  width: 40%;
+  margin: 0 auto;
+}
+.contact-me .btn {
+  background: #c7004c;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin-top: 30px;
+}
+.contact-me p {
+  margin-bottom: 30px;
+}
+.bottom-container {
+  background: #c7004c;
+  padding-top: 30px;
+}
+.bottom-container p {
+  margin-bottom: 0;
+  color: #fff;
+  font-size: 12px;
+  margin-top: 30px;
+}
+.bottom-container .footer-link {
+  padding-right: 30px;
+  color: #fff;
+  text-decoration: none;
+}
